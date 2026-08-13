@@ -62,7 +62,7 @@ a {
   letter-spacing: 0;
 }
 
-#navLinks{
+.nav-links{
   display: flex;
   align-items: center;
   gap: 24px;
